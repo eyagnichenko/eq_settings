@@ -1,0 +1,12 @@
+Truthear Gate Harman Full EQ
+March292025-124044
+
+Preamp: -6.40 dB 
+
+Filter 1: ON PK Fc 44.5 Hz Gain 1.05 dB Q 0.97
+Filter 2: ON PK Fc 255.7 Hz Gain -1.93 dB Q 1.65
+Filter 3: ON PK Fc 1557.9 Hz Gain -2.33 dB Q 1.12
+Filter 4: ON PK Fc 4535.1 Hz Gain -2.50 dB Q 2.18
+Filter 5: ON PK Fc 6650.1 Hz Gain 4.77 dB Q 2.76
+Filter 6: ON PK Fc 10390.0 Hz Gain 7.75 dB Q 4.12
+Filter 7: ON PK Fc 13653.0 Hz Gain -9.14 dB Q 3.48
