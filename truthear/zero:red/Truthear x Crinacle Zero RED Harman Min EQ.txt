@@ -1,0 +1,8 @@
+Truthear x Crinacle Zero RED Harman Min EQ
+May202023-214346
+
+Preamp: -3 dB 
+
+Filter 1: ON PK Fc 33.26 Hz Gain 2.77 dB Q 0.27
+Filter 2: ON PK Fc 8343.57 Hz Gain 3.1 dB Q 0.82
+Filter 3: ON PK Fc 13467.71 Hz Gain -4.8 dB Q 4.74

@@ -1,0 +1,14 @@
+Truthear x Crinacle Zero RED Knowles EQ
+May202023-213853
+
+Preamp: -9.8 dB 
+
+Filter 1: ON PK Fc 27.34 Hz Gain 2.91 dB Q 0.27
+Filter 2: ON PK Fc 155.57 Hz Gain 1.85 dB Q 1.71
+Filter 3: ON PK Fc 1062.22 Hz Gain -1.31 dB Q 0.27
+Filter 4: ON PK Fc 701.33 Hz Gain 2.02 dB Q 1.77
+Filter 5: ON PK Fc 2330.15 Hz Gain 1.32 dB Q 3.56
+Filter 6: ON PK Fc 4090.86 Hz Gain -1.66 dB Q 2.64
+Filter 7: ON PK Fc 13465.04 Hz Gain 10.78 dB Q 0.52
+Filter 8: ON PK Fc 8221.25 Hz Gain -3.64 dB Q 5.91
+Filter 9: ON PK Fc 13134.63 Hz Gain -3.55 dB Q 6.3
